@@ -17,3 +17,5 @@ and then:
 now you can be happy:
 
 ```node index```
+
+also, if you are REALLY using this (this is kinda impressive) you can stop the script by pressing Ctrl+' while focusing any other program.
